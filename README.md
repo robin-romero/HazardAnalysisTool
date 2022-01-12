@@ -1,4 +1,4 @@
-# HazardAnalysisTool
+# HazardAnalysisTool - Setpoint Medical Software Engineering Internship
 The Hazard Analysis Tool is used to determine the severity of a harm that may occur due to a sequence of foreseeable events. Each harm has a set of mitigators in place to reduce the severity of the harm with verifiers in place to validate/verify each mitigator. Each FSOE(Foreseeable Sequence of Events) is linked to one another to display what events may take place that lead to a single or set of hazards that in turn lead to a harm.
 
 This is the full HAT diagram view. Each node is shown connected to another node or set of nodes which determines the sequence of events from one node to another. Towards the end of the sequence of events the final event node leads to a hazard node that is then connected to the final harm. The harm dictates what events may take place that lead to this certain harm.
